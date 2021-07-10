@@ -1,4 +1,5 @@
 #requires -version 2
+
 <#
 .SYNOPSIS
   <Overview of script>
