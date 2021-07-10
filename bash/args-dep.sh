@@ -4,15 +4,15 @@
 # Description:  <SHORT_DESCRIPTION>
 # Contributors: Julio Jimenez Delgado
 #
-# GitHub repo:	https://github.com/jouleSoft/<repo-name>
+# GitHub repo:  https://github.com/jouleSoft/<repo-name>
 #
 # License:      The MIT License (MIT)
 #               Copyright (c) <YEAR> Julio Jiménez Delgado (jouleSoft)
 #
-# Template:     template_args.dep.sh <https://github.com/jouleSoft/js-DevOps/templates/>
+# Template:     args-dep.sh <https://github.com/jouleSoft/js-templates/>
 #
 # Dependencies: <dependency1>
-#				<dependency2>
+#               <dependency2>
 #
 # Version:      0.1
 # By:           Julio Jimenez Delgado

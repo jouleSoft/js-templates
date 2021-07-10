@@ -9,10 +9,10 @@
 # License:      The MIT License (MIT)
 #               Copyright (c) <YEAR> Julio Jiménez Delgado (jouleSoft)
 #
-# Template:     template_noargs.sh <https://github.com/jouleSoft/js-DevOps/templates/>
+# Template:     template_noargs.sh <https://github.com/jouleSoft/js-templates>
 #
 # Dependencies: <dependency1>
-#				<dependency2>
+#               <dependency2>
 # 
 # Version:      0.1
 # By:           Julio Jimenez Delgado
